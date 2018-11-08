@@ -1,4 +1,8 @@
+# Intellij IDEA
 .idea/
 out/
-stdlib.jar
 *.iml
+
+# Book
+stdlib.jar
+algs4.jar
